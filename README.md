@@ -1,1 +1,1 @@
-# Gyakorlat_Github2_22
+# Gyakorlat_Github2
