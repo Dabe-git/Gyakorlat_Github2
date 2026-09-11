@@ -1,1 +1,1 @@
-# Gyakorlat_Gitthub2
+# Gyakorlat_Gittthub2
